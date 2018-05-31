@@ -35,3 +35,9 @@ I should also add this stuff
 * Godeps support
 * Encryption / HTTPS support for the API
 * Encryption for the JWT token
+
+Install on Ubuntu 16.04
+apt-get npm
+npm install
+apt install nodejs-legacy
+
