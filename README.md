@@ -1,4 +1,7 @@
-This repo is a demonstration / sketch for a react+redux frontend with a golang API  backend that demonstrates:
+# This repo is a demonstration / sketch for a react+redux frontend with a golang API  backend that demonstrates:
+
+for backend server please see this link:
+https://github.com/Jogchat/jogchat_golang_backend
 
 * Use of higher-level components to protect pages in the frontend that require authorization
 * react-mdl for the design
@@ -40,4 +43,9 @@ Install on Ubuntu 16.04
 apt-get npm
 npm install
 apt install nodejs-legacy
+
+# Jogchat React+Golang server
+This server will split to react and golang microservices later ip: 206.189.222.128
+
+
 
