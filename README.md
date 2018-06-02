@@ -1,8 +1,10 @@
-# This repo is a demonstration / sketch for a react+redux frontend with a golang API  backend that demonstrates:
 
-for backend server please see this link:
+
+# Introduction
+
+This repo is front-end sketch of a demonstration for a (react+redux frontend + golang API  backend) that demonstrates:
+#For backend server please see this link:
 https://github.com/Jogchat/jogchat_golang_backend
-
 * Use of higher-level components to protect pages in the frontend that require authorization
 * react-mdl for the design
 * React router to route stuff
